@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Main\ here.\r\n\r\n\ @author\ Monika\r\n\ @version\ September\ 22,\ 2018\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ The\ main\ entry\ to\ the\ book\r\n\ \r\n\ A\ new\ book\ object\ has\ been\ created\ b1\r\n\ \r\n
+numComments=2
