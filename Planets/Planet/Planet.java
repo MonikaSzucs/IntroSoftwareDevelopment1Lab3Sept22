@@ -78,10 +78,10 @@ public class Planet
     
     public String getPlanetaryData(){
         if(innerPlanet==true){
-            return name + " is an inner planet, weighs " + earthMasses + " Earth masses, and is " + astronomicalUnitsFromSun + " AU from the sun.";
+            return name + " is an inner planet, weighs " + earthMasses + " Earth masses, and is " + astronomicalUnitsFromSun + " AU from the sun. " + name + " is similar to earth";
         }
         else{
-            return name + " is an outer planet, weighs " + earthMasses + " Earth masses, and is " + astronomicalUnitsFromSun + " AU from the sun.";
+            return name + " is an outer planet, weighs " + earthMasses + " Earth masses, and is " + astronomicalUnitsFromSun + " AU from the sun. " + name + " is not similar to earth";
         }
     }
 
