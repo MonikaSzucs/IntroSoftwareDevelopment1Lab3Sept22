@@ -4,6 +4,8 @@
  *
  * @author Monika Szucs
  * @version September 23, 2018
+ * 
+ * This is the Main class.
  */
 public class Main
 {
