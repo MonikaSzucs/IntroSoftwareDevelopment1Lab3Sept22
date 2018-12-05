@@ -97,7 +97,7 @@ public class Planet
      * @return the information gathered into one String to pass to the Main class.
      */
     public String getPlanetaryData(){
-        if(innerPlanet==true){
+        if(innerPlanet){
             return name + " is an inner planet, weighs " + earthMasses + " Earth masses, and is " + astronomicalUnitsFromSun + " AU from the sun. " + name + " is similar to earth.";
         }
         else{
