@@ -86,10 +86,10 @@ public class Planet
      */
     public Boolean isSimilarToEarth(){
         if((astronomicalUnitsFromSun <= 1.0)||(earthMasses <= 15.0)){
-            return innerPlanet=true;
+            return true;
         }
         else {
-            return innerPlanet=false;
+            return false;
         }
     }
     
